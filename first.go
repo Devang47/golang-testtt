@@ -1,4 +1,4 @@
-package github.com/Devang47/golang-testtt/section8
+package main
 
 import "fmt"
 
